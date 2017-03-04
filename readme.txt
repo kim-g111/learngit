@@ -4,4 +4,4 @@ i believe myself
 i am learning git
 you are the world
 you jump i jump
-creating a new branch is quick
+Creating a new branch is quick & simple.
